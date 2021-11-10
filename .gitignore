@@ -37,3 +37,14 @@
 *.suo
 *.db
 *.ipch
+*.db-shm
+*.db-wal
+*.opendb
+*.recipe
+*.ilk
+*.log
+*.pdb
+*.txt
+*.idb
+*.tlog
+*.lastbuildstate
